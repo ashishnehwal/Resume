@@ -1,0 +1,54 @@
+body
+{
+  line-height:1.5em;
+  background:linear-gradient(125deg,#a7aba9,white,#bff3ff);
+}
+#row1
+{
+  margin-top:10px;
+  background:linear-gradient(125deg,#a7aba9,white,#bff3ff);
+}
+#row2
+{
+  background:linear-gradient(75deg,#a7aba9,white,#bff3ff);
+}
+.image
+{
+width: 40%;
+border-radius:100%;
+border:2px solid black;
+overflow: hidden;
+}
+#logo
+{
+  width:20%;
+}
+#logo img
+{
+  max-width: 100%;
+  height: auto;
+}
+img
+{
+  max-width:100%;
+  height: auto;
+}
+#col-edit1
+{
+  background:linear-gradient(90deg,#a7aba9,,#bff3ff);
+}
+table
+{
+  text-align: center;
+  margin-top: 20px;
+}
+th
+{
+  background-color:30a9ff;
+  padding:5px;
+}
+td
+{
+  background:transparet;
+
+}
